@@ -1,11 +1,32 @@
 # プロフィール
 
-昔グミばかり食べていたので、グミと名乗っています。
-好きなグミはハリボーのスターミックスです。
+- 名前: グミ
+- 好きなグミ: ハリボーのスターミックス
+- 好きな言語: Haskell、Lean4
 
-学位は修士（理学）で、Abel関数体（有限体上の有理関数体のAbel拡大体）の類数について研究していました。
+# スライド発表
 
-関数型言語に興味があり、Haskell、Lean4を勉強中です。
+## 関数型まつり2026
+
+### Haskellと圏論：パフォーマンス改善からKan拡張へ
+
+- [プロポーザル](https://fortee.jp/2026fp-matsuri/proposal/ea2c981c-e3c6-44cd-b324-e07125e4d97c)
+- [スライド](https://www.docswell.com/s/GummyCandy1206/ZN7X7P-2026-07-11-kan-extension)
+- [参加レポート](https://note.com/gummycandy/n/n24d5a111afef)
+
+## λ Kansai in Winter 2026
+
+### Recursion Scheme の紹介
+
+- [connpass](https://lambda-kansai.connpass.com/event/370812/)
+- [スライド](https://www.docswell.com/s/GummyCandy1206/KJQ7Q1-2026-01-17-recursion-scheme)
+
+## 第32回日曜数学会
+
+### 関数体の紹介 Riemann予想とABC予想の類似
+
+- [スライド](https://www.docswell.com/s/GummyCandy1206/Z7R1D6-introduction_to_function_fields)
+- [ニコニコ静画](https://www.nicovideo.jp/watch/sm44754054)
 
 # リンク
 
@@ -20,5 +41,3 @@
 ## 競プロ
 - [AtCoder: @Rjo](https://atcoder.jp/users/Rjo)
 
-## 日曜数学会
-- 第32回 [関数体の紹介 Riemann予想とABC予想の類似](https://www.docswell.com/s/GummyCandy1206/Z7R1D6-introduction_to_function_fields)
